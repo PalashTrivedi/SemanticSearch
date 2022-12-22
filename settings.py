@@ -7,7 +7,7 @@ ASSEMBLY_KEY = 'ASSEMBLY_KEY'
 # Cohere API
 COHERE_KEY = 'COHERE_KEY'
 COHERE_MODEL = 'large'
-# Pinecome API
+# Pinecone API
 PINECONE_KEY = 'PINECONE_KEY'
 PINECONE_ENV = 'us-west1-gcp'
 PINCEONE_INDEX = 'cohere-pinecone-bible'
