@@ -1,0 +1,12 @@
+name: streamlit-conda-minimal
+channels:
+  - conda-forge
+dependencies:
+  - pyaudio==0.2.11
+  - pyyaml
+  - pip
+  - pip:
+    - streamlit==1.15.2
+    - cohere
+    - pinecone-client
+    - datasets
