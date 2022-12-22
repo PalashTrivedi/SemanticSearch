@@ -3,7 +3,7 @@ import os
 # AssemblyAI API
 UPLOAD_ENDPOINT = 'https://api.assemblyai.com/v2/upload'
 TRASCRIPT_ENDPOINT = "https://api.assemblyai.com/v2/transcript"
-ASSEMBLY_KEY = 'ASSEMBLY_KEY'
+ASSEMBLY_KEY = 'a308bc93996143eaa1da0c49cb5e55b5'
 # Cohere API
 COHERE_KEY = 'COHERE_KEY'
 COHERE_MODEL = 'large'
